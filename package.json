@@ -1,12 +1,11 @@
 {
   "name": "language-mediawiki",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Converted From the Textmate Bundle",
   "repository": "https://github.com/cjwilburn/atom-language-mediawiki",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
