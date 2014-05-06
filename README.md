@@ -1,3 +1,3 @@
 # language-mediawiki package
 
-A short description of your package.
+This is a conversion of the Mediawiki TextMate bundle.
