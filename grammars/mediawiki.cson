@@ -79,7 +79,7 @@
           '4':
             'name': 'punctuation.definition.heading.mediawiki'
         'match': '^(={1,6})(?!=)((.+))(\\1)\\s*$\\n?'
-        'name': 'markup.heading.${1/=(?<b>=)?(?<c>=)?(?<d>=)?(?<e>=)?(?<f>=)?/${f:?6:${e:?5:${d:?4:${c:?3:${b:?2:1}}}}}/}.mediawiki'
+        'name': 'markup.heading.mediawiki'
       }
       {
         'comment': '\n\t\t\t\t\t\tA separator is made up of 4 or more -s alone on a\n\t\t\t\t\t\tline by themselves.\n\t\t\t\t\t'
