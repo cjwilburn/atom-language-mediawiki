@@ -1,6 +1,6 @@
 {
   "name": "language-mediawiki",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Originally converted From the Textmate Bundle",
   "repository": "https://github.com/cjwilburn/atom-language-mediawiki",
   "license": "MIT",
