@@ -1,3 +1,4 @@
 '.text.html.mediawiki':
   'editor':
     'foldEndPattern': '\\}\\}|\\|}|</(?# stop fold on tag close, and } </)'
+    'softWrap': true
